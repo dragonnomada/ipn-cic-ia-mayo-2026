@@ -4,6 +4,12 @@ Profesor: M. Alan Badillo Salas
 
 ---
 
+## Sesión 401
+
+> Libreta de Redes Neuronales
+
+https://colab.research.google.com/drive/1Ue2_gy6blcjl45fQjAotfdrqgIbbiCfp?usp=sharing
+
 ## Sesión 101
 
 > Libreta 1 - Implementación de los códigos de las notas
